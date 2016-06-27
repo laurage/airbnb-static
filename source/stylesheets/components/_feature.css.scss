@@ -1,11 +1,11 @@
 .features img {
   width: 100px;
-}
-.features h2 {
-  font-size: 20px;
+  h2 {
+  font-size: $base-size-h2;
   margin-bottom: 10px;
-}
-.features p {
-  font-size: 15px;
-  font-weight: lighter;
+  }
+  p {
+    font-size: $base-size;;
+    font-weight: lighter;
+  }
 }
